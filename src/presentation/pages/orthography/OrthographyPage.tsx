@@ -1,5 +1,3 @@
 export const OrthographyPage = () => {
-  return (
-    <div>OrthographyPage</div>
-  )
-}
+  return <div>OrthographyPage</div>;
+};

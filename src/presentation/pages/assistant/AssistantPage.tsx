@@ -1,5 +1,3 @@
 export const AssistantPage = () => {
-  return (
-    <div>AssistantPage</div>
-  )
-}
+  return <div>AssistantPage</div>;
+};

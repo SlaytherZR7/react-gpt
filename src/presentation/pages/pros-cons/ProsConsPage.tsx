@@ -1,5 +1,3 @@
 export const ProsConsPage = () => {
-  return (
-    <div>ProsConsPage</div>
-  )
-}
+  return <div>ProsConsPage</div>;
+};
